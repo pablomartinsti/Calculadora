@@ -85,12 +85,13 @@ button:active {
     grid-row: 4 / 5;
 }
 
-#somar{
+#somar {
     grid-column: 4 / 5;
     grid-row: 6 / 6;
 
 }
-#subtrair{
+
+#subtrair {
     grid-row: 5 / 6;
     grid-column: 4 / 5;
 }
