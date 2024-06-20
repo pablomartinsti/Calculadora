@@ -25,7 +25,7 @@ h3 {
     padding: 20px;
 }
 
-div {
+.box {
     background: white;
     border-radius: 30px;
     width: 375px;
@@ -100,4 +100,43 @@ button:active {
 .operators-equal {
     grid-row: 7 / 8;
     grid-column: 3 / 5;
+}
+
+
+@media (max-width:920px){
+
+  h3{
+
+    display: none;
+  }
+
+  .box{
+
+    width: 750px;
+    height: 385px;
+  }
+
+  input{
+    height: 80px;
+    padding-top: 0;
+    
+  }
+
+}
+@media (max-width:450px){
+    .box{
+
+        width: 350px;
+        height: 550px;
+        margin-bottom: 100px;
+
+
+    }
+    h3{
+
+        display: block;
+        
+    }
+
+
 }
