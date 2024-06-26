@@ -7,7 +7,7 @@
 }
 
 body {
-    background: black;
+    background: green;
     height: 100vh;
     width: 100vw;
     display: grid;
@@ -19,8 +19,8 @@ body {
 h3 {
     color: white;
     text-align: center;
-    font-size: 50px;
-    background: green;
+    font-size: 40px;
+    background: black;
     border-radius: 10px;
     padding: 20px;
 }
@@ -28,8 +28,8 @@ h3 {
 .box {
     background: white;
     border-radius: 30px;
-    width: 375px;
-    height: 570px;
+    width: 330px;
+    height: 470px;
     padding: 20px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -112,12 +112,13 @@ button:active {
 
   .box{
 
-    width: 750px;
-    height: 385px;
+    width: 680px;
+    height: 370px;
+    margin-bottom: 15px;
   }
 
   input{
-    height: 80px;
+    height: 60px;
     padding-top: 0;
     
   }
@@ -126,8 +127,8 @@ button:active {
 @media (max-width:450px){
     .box{
 
-        width: 350px;
-        height: 550px;
+        width: 300px;
+        height: 460px;
         margin-bottom: 100px;
 
 
@@ -135,6 +136,7 @@ button:active {
     h3{
 
         display: block;
+        
         
     }
 
