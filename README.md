@@ -1,12 +1,18 @@
-<h3>Projeto de uma Calculadora </h3>
+# Calculadora
 
-<p>A ideia do projeto foi criar uma calculadora apenas com as operações de adição , subtração , multiplicação , divisão.</p>
+Este projeto é uma calculadora simples, desenvolvida utilizando HTML, CSS e JavaScript. A calculadora permite realizar operações básicas como adição, subtração, multiplicação e divisão. Ela possui uma interface amigável, responsiva, e foi projetada para funcionar de maneira eficiente tanto em desktops quanto em dispositivos móveis.
 
-<p>Para aprimorar os conhecementos em javascript.</p>
-<p>Tecnologias utilizado no projeto.</p>
-<br>
+## 🚀 Tecnologias Utilizadas
 
-<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" > <img src ="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" > <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+- **HTML5:** Estruturação da interface da calculadora.
+- **CSS3:** Estilização da calculadora, incluindo design responsivo.
+- **JavaScript:** Implementação da lógica de cálculo e manipulação do DOM para interatividade.
+
+## ⚙️ Funcionalidades
+
+- Realiza operações básicas de matemática (adição, subtração, multiplicação, divisão).
+- Funções de inverter sinal, limpar tela e deletar último dígito.
+- Responsividade para diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis.
 
 <br>
 <br>
@@ -15,4 +21,4 @@ Link do Projeto https://pablomartinsti.github.io/Calculadora/
 <br>
 
 
-<img src = "https://github.com/pablomartinsti/Calculadora/blob/main/assets/Site%20para%20Link%20na%20Bio%20Tecnologia%20e%20Jogos%20Escuro%20Simples%20Azul-escuro%20(1).png " >
+<img src = "https://github.com/pablomartinsti/Calculadora/blob/main/assets/calculadora.png">
