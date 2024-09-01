@@ -7,7 +7,7 @@
 }
 
 body {
-    background: green;
+    background: black;
     height: 100vh;
     width: 100vw;
     display: grid;
@@ -20,7 +20,7 @@ h3 {
     color: white;
     text-align: center;
     font-size: 40px;
-    background: black;
+    background: green;
     border-radius: 10px;
     padding: 20px;
 }
@@ -28,7 +28,7 @@ h3 {
 .box {
     background: white;
     border-radius: 30px;
-    width: 330px;
+    width: 380px;
     height: 470px;
     padding: 20px;
     display: grid;
